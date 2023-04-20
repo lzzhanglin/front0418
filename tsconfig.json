@@ -1,0 +1,11 @@
+{
+  "extends": "./src/.umi/tsconfig.json",
+  "compilerOptions": {
+    "paths": {
+      "@components/*": ["src/components/*"],
+      "umi": [
+        "D:\\react\\front0418\\node_modules\\.pnpm\\umi@4.0.66_@babel+core@7.21.4_@types+react@18.0.37_eslint@8.38.0_postcss@8.4.23_prettier@2.8._jpa4oljxq6x6d5aphsy4as7ekm\\node_modules\\umi"
+      ],
+    }
+  }
+}
